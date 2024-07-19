@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Ejercicios de Tipos de Datos Simples**
 
 ***Ejercicio 1***
@@ -56,3 +57,6 @@ Imagina que acabas de abrir una nueva cuenta de ahorros que te ofrece el 4% de i
 Una panadería vende barras de pan a 3.49€ cada una. El pan que no es el día tiene un descuento del 60%. Escribir un programa que comience leyendo el número de barras vendidas que no son del día. 
 Después el programa debe mostrar el precio habitual de una barra de pan, el descuento que se le hace por no ser fresca y el coste final total.
 
+=======
+**Ejercicios de Python**
+>>>>>>> 3b2cad73152107ad89ee8aa51c9044eb29ccd11d
